@@ -1,0 +1,2 @@
+Um exemplo simples do uso da biblioteca chatterbot.
+No arquivo "funcao_seletora.py" existe uma função que pode ser invocada apenas descomentando a linha 18 do arquivo "chat_procon.py".
